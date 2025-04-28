@@ -40,7 +40,11 @@ Each script targets a specific aspect of system health and provides simple, acti
 >
 > 1. 🔒 Enable 2-Step Verification on your Google Account
 > 2. 🛠️ Generate a New App Password (select "Mail" app for "Windows Computer")
-> 3. ✉️ Use this App Password when the script asks for credentials
+> 3. ✉️ Use this App Password when the script asks for credentials\
+
+Email exanple that gets sent: \
+![image alt](https://github.com/MarlonVithanage/Powershell-Automation-Scripts/blob/d9df823f9a97fe236a706faa41243cd89324ef70/SystemStatusEmail.png)
+
 
 ---
 
