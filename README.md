@@ -118,7 +118,7 @@ YourRepoFolder
 
 ## 📬 Contact
 
-**Author:** Your Marlon Vithanage
+**Author:** Marlon Vithanage\
 **Email:** [avishka.marlon@gmail.com](mailto\:avishka.marlon@gmail.com)\
 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/marlon-vithanage-563173100/)
 
