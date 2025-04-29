@@ -124,5 +124,5 @@ YourRepoFolder
 
 **Author:** Marlon Vithanage\
 **Email:** [avishka.marlon@gmail.com](mailto\:avishka.marlon@gmail.com)\
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/marlon-vithanage-563173100/)
+**LinkedIn:** [https://www.linkedin.com/in/marlon-vithanage-563173100/](https://www.linkedin.com/in/marlon-vithanage-563173100/)
 
